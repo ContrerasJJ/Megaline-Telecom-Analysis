@@ -117,7 +117,7 @@ Megaline-Telecom-Analysis/
 │── README.md              # project documentation
 
 
-## 🙌 Conclusion
+##🙌 Conclusion
 This project demonstrates my ability to:
 Work with multiple related datasets and combine them into a unified analytical table
 Perform exploratory data analysis and build clear visualizations
