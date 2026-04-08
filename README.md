@@ -118,10 +118,22 @@ Megaline-Telecom-Analysis/
 
 
 ## Conclusion
-This project demonstrates my ability to:
-Work with multiple related datasets and combine them into a unified analytical table
-Perform exploratory data analysis and build clear visualizations
-Model real-world business logic (tariffs, overages, and revenue)
-Use statistical hypothesis testing to support decision-making
-Translate raw analysis into actionable, business-focused recommendations
-It represents the kind of work I’m excited to do in a Data Analyst or Data Scientist role — combining technical skills with business understanding to drive better decisions.
+
+In this project, I analyzed customer behavior and revenue patterns for Megaline Telecom to identify opportunities for optimizing tariff plans.
+
+Key outcomes:
+- Identified usage patterns across customer segments to determine which plans generate the highest revenue
+- Applied statistical hypothesis testing to validate differences in plan performance
+- Uncovered insights showing how high-usage customers can be strategically targeted for plan upgrades
+
+Business Impact:
+- Recommended transitioning high-usage “Surf” users to the “Ultimate” plan to increase revenue
+- Suggested targeted add-on packages to reduce churn and improve customer retention
+- Demonstrated how data-driven segmentation can support personalized marketing strategies
+
+This project highlights my ability to:
+- Perform end-to-end exploratory data analysis using Python
+- Apply statistical methods to real-world business problems
+- Translate data insights into actionable business decisions
+
+I’m excited to apply these skills in a Data Analyst or Data Scientist role to help organizations make smarter, data-driven decisions.
