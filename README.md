@@ -146,25 +146,28 @@ Since **p ≪ 0.01**, the result is **highly significant**.
 ![Usage Comparison](images/usage_comparison.png)
 
 ## 📦 Repository Structure  
-
-```text
 Megaline-Telecom-Analysis/
-│── notebook-2.ipynb       # main analysis notebook
-│── megaline_internet.csv  # sample dataset (internet usage)
-│── README.md              # project documentation
-
+│── data/
+│   ├── calls.csv
+│   ├── messages.csv
+│   ├── internet.csv
+│   └── users.csv
+│── notebooks/
+│   └── megaline_analysis.ipynb
+│── images/
+│── README.md
 
 ---
 
-## Conclusion
+## ✅ Conclusion
 
-This analysis revealed clear behavioral and revenue differences between Surf and Ultimate plan users. Surf users tend to exceed usage limits more frequently, generating revenue through overage charges, while Ultimate users provide more stable and predictable income through higher base fees.
+This analysis revealed clear and statistically significant differences in revenue between Surf and Ultimate plans (p < 0.01).
 
-Statistical testing confirmed that the difference in average revenue between plans is highly significant, reinforcing that plan structure directly impacts profitability.
+Ultimate users generate more stable and predictable revenue, while Surf users contribute higher variability due to frequent overage charges.
 
-From a business perspective, the most valuable opportunity lies in identifying high usage Surf customers and transitioning them to the Ultimate plan to increase long term revenue stability and reduce reliance on overage charges.
+From a business perspective, the most valuable opportunity lies in identifying high-usage Surf customers and strategically converting them to Ultimate plans.
 
-This project demonstrates the ability to combine data analysis, statistical validation, and business strategy to support data driven decision making.
+This project demonstrates the ability to combine data analysis, statistical validation, and business strategy to drive data-informed decisions.
 
 Key outcomes:
 - Identified usage patterns across customer segments to determine which plans generate the highest revenue
