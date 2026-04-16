@@ -40,7 +40,7 @@ This project analyzes customer behavior, evaluates plan profitability, and uses 
 ### 1️⃣ Data Preparation  
 
 - Loaded multiple datasets: calls, messages, internet, and user info  
-- Merged them into a single monthly user-level dataset  
+- Merged them into a single monthly user level dataset  
 - Handled missing values and corrected data types  
 - Calculated monthly totals for call minutes, number of messages, and internet usage (MB/GB)  
 
@@ -88,7 +88,7 @@ Since **p ≪ 0.01**, the result is **highly significant**.
 
 • Ultimate users generate more stable and predictable revenue due to higher base pricing and lower overage dependency.
 
-• High-usage customer segments represent the most valuable revenue opportunity, particularly when transitioned to higher-tier plans.
+• High usage customer segments represent the most valuable revenue opportunity, particularly when transitioned to higher tier plans.
 
 • The revenue distribution between plans shows clear separation, indicating fundamentally different user behaviors and monetization patterns.
 
@@ -98,9 +98,9 @@ Since **p ≪ 0.01**, the result is **highly significant**.
 
 ## 💰 Revenue Strategy Insights
 
-• Overage-based revenue (Surf plan) is less predictable but can generate higher short-term gains from heavy users
+• Overage-based revenue (Surf plan) is less predictable but can generate higher short term gains from heavy users
 
-• Subscription-based revenue (Ultimate plan) provides consistent and reliable income with lower volatility
+• Subscription based revenue (Ultimate plan) provides consistent and reliable income with lower volatility
 
 • Customers exceeding limits frequently are strong candidates for plan upgrades, representing a key upsell opportunity
 
@@ -119,9 +119,9 @@ Since **p ≪ 0.01**, the result is **highly significant**.
 
 - **Business Recommendations:**  
   - Encourage heavy internet users to upgrade to **Ultimate**  
-  - Offer targeted **add-on data packages** for Surf users who frequently exceed limits  
+  - Offer targeted **add on data packages** for Surf users who frequently exceed limits  
   - Use usage patterns to **segment customers** and personalize offers  
-  - Consider marketing campaigns that move high-usage Surf customers to Ultimate to stabilize and grow revenue  
+  - Consider marketing campaigns that move high usage Surf customers to Ultimate to stabilize and grow revenue  
 
 ---
 
@@ -134,23 +134,31 @@ Megaline-Telecom-Analysis/
 │── README.md              # project documentation
 
 
+---
+
 ## Conclusion
 
-In this project, I analyzed customer behavior and revenue patterns for Megaline Telecom to identify opportunities for optimizing tariff plans.
+This analysis revealed clear behavioral and revenue differences between Surf and Ultimate plan users. Surf users tend to exceed usage limits more frequently, generating revenue through overage charges, while Ultimate users provide more stable and predictable income through higher base fees.
+
+Statistical testing confirmed that the difference in average revenue between plans is highly significant, reinforcing that plan structure directly impacts profitability.
+
+From a business perspective, the most valuable opportunity lies in identifying high usage Surf customers and transitioning them to the Ultimate plan to increase long term revenue stability and reduce reliance on overage charges.
+
+This project demonstrates the ability to combine data analysis, statistical validation, and business strategy to support data driven decision making.
 
 Key outcomes:
 - Identified usage patterns across customer segments to determine which plans generate the highest revenue
 - Applied statistical hypothesis testing to validate differences in plan performance
-- Uncovered insights showing how high-usage customers can be strategically targeted for plan upgrades
+- Uncovered insights showing how high usage customers can be strategically targeted for plan upgrades
 
 Business Impact:
-- Recommended transitioning high-usage “Surf” users to the “Ultimate” plan to increase revenue
-- Suggested targeted add-on packages to reduce churn and improve customer retention
-- Demonstrated how data-driven segmentation can support personalized marketing strategies
+- Recommended transitioning high usage “Surf” users to the “Ultimate” plan to increase revenue
+- Suggested targeted add on packages to reduce churn and improve customer retention
+- Demonstrated how data driven segmentation can support personalized marketing strategies
 
 This project highlights my ability to:
 - Perform end-to-end exploratory data analysis using Python
-- Apply statistical methods to real-world business problems
+- Apply statistical methods to real world business problems
 - Translate data insights into actionable business decisions
 
-I’m excited to apply these skills in a Data Analyst or Data Scientist role to help organizations make smarter, data-driven decisions.
+I’m excited to apply these skills in a Data Analyst or Data Scientist role to help organizations make smarter, data driven decisions.
