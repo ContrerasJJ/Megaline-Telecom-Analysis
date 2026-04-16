@@ -80,14 +80,19 @@ Since **p ≪ 0.01**, the result is **highly significant**.
 
 ---
 
-## 📈 Key Insights  
+## 📈📊 Key Insights  
 
-- Internet usage is the **largest driver of revenue**  
-- Surf users exceed plan limits **more frequently**, leading to overage charges  
-- Ultimate users pay a **higher base fee** but go over limits less often  
-- Revenue distributions for the two plans differ noticeably  
-- **Conclusion from the test:**  
-  - We **reject H₀** → the average monthly revenue between Surf and Ultimate users **differs significantly**  
+• Internet usage is the primary driver of revenue, contributing the largest share of overage charges across both plans.
+
+• Surf users consistently exceed plan limits more frequently, leading to unpredictable billing and higher variability in monthly revenue.
+
+• Ultimate users generate more stable and predictable revenue due to higher base pricing and lower overage dependency.
+
+• High-usage customer segments represent the most valuable revenue opportunity, particularly when transitioned to higher-tier plans.
+
+• The revenue distribution between plans shows clear separation, indicating fundamentally different user behaviors and monetization patterns.
+
+• Statistical testing confirmed a significant difference in average revenue between plans (p < 0.01), validating that observed trends are not due to random variation.
 
 ---
 
