@@ -1,6 +1,6 @@
 # 📘 Megaline Telecom: User Behavior & Plan Profitability Analysis  
 
-_Data Analysis • A/B Testing • Statistical Evaluation • Python • Pandas • Seaborn_
+Data Analysis • A/B Testing • Statistical Evaluation • Python • Pandas • Seaborn
 
 ---
 
