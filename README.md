@@ -96,6 +96,18 @@ Since **p ≪ 0.01**, the result is **highly significant**.
 
 ---
 
+## 💰 Revenue Strategy Insights
+
+• Overage-based revenue (Surf plan) is less predictable but can generate higher short-term gains from heavy users
+
+• Subscription-based revenue (Ultimate plan) provides consistent and reliable income with lower volatility
+
+• Customers exceeding limits frequently are strong candidates for plan upgrades, representing a key upsell opportunity
+
+• Pricing structure directly influences customer behavior, with lower-tier plans encouraging overage usage patterns
+
+---
+
 ## 🏁 Final Results & Business Impact  
 
 - **Higher-earning plan:**  
