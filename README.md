@@ -12,6 +12,21 @@ The company wants to understand **which plan generates more revenue** and **how 
 This project analyzes customer behavior, evaluates plan profitability, and uses **statistical hypothesis testing** to determine whether the revenue difference between plans is statistically significant.
 
 ---
+## 📌 Project Highlights
+
+• Merged and transformed multiple datasets into a unified user-level dataset
+
+• Engineered features to calculate monthly revenue based on pricing rules and overage charges
+
+• Conducted exploratory data analysis to uncover behavioral differences between customer segments
+
+• Performed statistical hypothesis testing (two-sample t-test, p < 0.01) to validate revenue differences
+
+• Identified key revenue drivers, including internet usage and overage frequency
+
+• Developed actionable business recommendations to improve revenue and customer retention
+
+---
 
 ## 🎯 Objective  
 
@@ -124,6 +139,11 @@ Since **p ≪ 0.01**, the result is **highly significant**.
   - Consider marketing campaigns that move high usage Surf customers to Ultimate to stabilize and grow revenue  
 
 ---
+## 📊 Key Visualizations
+
+![Revenue Distribution](images/revenue_distribution.png)
+
+![Usage Comparison](images/usage_comparison.png)
 
 ## 📦 Repository Structure  
 
