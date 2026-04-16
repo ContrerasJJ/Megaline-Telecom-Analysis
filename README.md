@@ -1,4 +1,4 @@
-# 📘 Megaline Telecom: User Behavior & Plan Profitability Analysis  
+## 📊 Megaline Telecom: Customer Behavior & Revenue Optimization Analysis
 
 Data Analysis • A/B Testing • Statistical Evaluation • Python • Pandas • Seaborn
 
@@ -185,3 +185,16 @@ This project highlights my ability to:
 - Translate data insights into actionable business decisions
 
 I’m excited to apply these skills in a Data Analyst or Data Scientist role to help organizations make smarter, data driven decisions.
+
+---
+## ⚙️ How to Run
+
+1. Clone the repository
+2. Open the notebook in Jupyter
+3. Run all cells to reproduce the analysis
+
+Dependencies:
+- Python 3.x
+- pandas, numpy
+- matplotlib, seaborn
+- scipy
