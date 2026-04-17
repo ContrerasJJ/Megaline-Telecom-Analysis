@@ -149,11 +149,11 @@ Since **p ≪ 0.01**, the result is **highly significant**.
 
 ![Internet Usage by Plan](images/internet_usage.png)
 
-*Ultimate users show higher and more variable data usage.*
+*Ultimate plan users exhibit higher median data usage and greater variability, indicating heavier and less predictable consumption patterns compared to Surf users.*
 
 ![Call Minutes by Plan](images/call_minutes.png)
 
-*Ultimate users also tend to have higher call volume.*
+*Ultimate users also demonstrate higher call volume, suggesting increased engagement and usage intensity.*
 
 ## 📦 Repository Structure  
 Megaline-Telecom-Analysis/
