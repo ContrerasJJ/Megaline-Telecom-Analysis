@@ -147,22 +147,22 @@ Since **p ≪ 0.01**, the result is **highly significant**.
 ---
 ## 📊 Key Visualizations
 
-![Revenue Distribution](images/revenue_distribution.png)
-
-![Usage Comparison](images/usage_comparison.png)
+![Internet Usage by Plan](images/internet_usage.png)
+![Call Minutes by Plan](images/call_minutes.png)
 
 ## 📦 Repository Structure  
 Megaline-Telecom-Analysis/
-│── data/
-│   ├── calls.csv
-│   ├── messages.csv
-│   ├── internet.csv
-│   └── users.csv
-│── notebooks/
-│   └── megaline_analysis.ipynb
-│── images/
-│── README.md
-
+├── data/
+│ ├── calls.csv
+│ ├── messages.csv
+│ ├── internet.csv
+│ └── users.csv
+├── notebooks/
+│ └── megaline_analysis.ipynb
+├── images/
+│ ├── internet_usage.png
+│ └── call_minutes.png
+└── README.md
 ---
 
 ## ✅ Conclusion
