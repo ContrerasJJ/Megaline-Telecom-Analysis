@@ -4,17 +4,24 @@ Data Analysis • A/B Testing • Statistical Evaluation • Python • Pandas �
 
 ---
 
+## 🚀 Key Results (Quick Snapshot)
+
+- 📈 Ultimate plan generates **higher average monthly revenue per user**
+- 📊 Statistically significant difference (p-value = 3.63e-16, α = 0.01)
+- 🌐 Internet overage is the **#1 revenue driver**
+- 💡 Identified high-value segment for plan upgrades → revenue growth opportunity
+- 
+---
+
 ## 🔍 Project Summary  
+Megaline, a telecom company, needed to determine which of its two pricing plans generates higher revenue and how customer behavior impacts profitability.
 
-Megaline, a telecom operator, offers customers two mobile plans — **Surf** and **Ultimate**.  
-The company wants to understand **which plan generates more revenue** and **how users behave differently** across calls, messages, and internet usage.
-
-This project analyzes customer behavior, evaluates plan profitability, and uses **statistical hypothesis testing** to determine whether the revenue difference between plans is statistically significant.
+This project analyzes user activity and applies statistical testing to identify revenue drivers and inform data driven pricing strategy decisions.
 
 ---
 ## 📌 Project Highlights
 
-• Merged and transformed multiple datasets into a unified user-level dataset
+• Merged and transformed multiple datasets into a unified user level dataset
 
 • Engineered features to calculate monthly revenue based on pricing rules and overage charges
 
@@ -38,15 +45,14 @@ This project analyzes customer behavior, evaluates plan profitability, and uses 
 
 ---
 
-## 🛠️ Tools & Skills Used  
+## 🛠️ Tools & Skills
 
-- Python  
-- Pandas, NumPy  
-- Matplotlib, Seaborn  
-- SciPy (t-test)  
-- Exploratory Data Analysis (EDA)  
-- Data Cleaning & Feature Engineering  
-- Statistical Analysis & Hypothesis Testing  
+- Python (Pandas, NumPy)
+- Data Visualization (Matplotlib, Seaborn)
+- Statistical Testing (SciPy, t-test)
+- Feature Engineering
+- Business Analytics & Revenue Modeling
+- Hypothesis Testing & A/B Testing
 
 ---
 
@@ -84,7 +90,7 @@ This produced **monthly revenue per user**, which became the main metric for com
 
 - **H₀ (null):** There is **no difference** in average monthly revenue between Surf and Ultimate plans  
 - **H₁ (alternative):** The average monthly revenue **differs** between the plans  
-- Test: **Two-sided t-test**  
+- Test: **Two sided t-test**  
 - Significance level: **α = 0.01**  
 
 The test returned:
