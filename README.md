@@ -148,7 +148,12 @@ Since **p ≪ 0.01**, the result is **highly significant**.
 ## 📊 Key Visualizations
 
 ![Internet Usage by Plan](images/internet_usage.png)
+
+*Ultimate users show higher and more variable data usage.*
+
 ![Call Minutes by Plan](images/call_minutes.png)
+
+*Ultimate users also tend to have higher call volume.*
 
 ## 📦 Repository Structure  
 Megaline-Telecom-Analysis/
